@@ -5,7 +5,7 @@ Kodluyoruz front end eğitimi kapsamında verilen müzik dükkanım sitesinin bo
 [patika.dev](https://www.patika.dev)
 
 ![preview1](preview.png)
-![preview1](preview2.png)
+![preview2](preview2.png)
 
 # Installation
 
