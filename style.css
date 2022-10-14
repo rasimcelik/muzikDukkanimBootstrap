@@ -1,0 +1,47 @@
+li {
+  list-style-type: none;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.navLinks {
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+}
+.navLinks:hover {
+  text-decoration: none;
+  color: #d1d1d1;
+  font-weight: 500;
+  font-size: 16px;
+}
+.jumbotron {
+  width: 75%;
+}
+.lead {
+  color: whitesmoke;
+  font-weight: 400;
+}
+hr {
+  background-color: white;
+}
+.sub-p {
+  color: rgb(253, 233, 233);
+  font-weight: 600;
+}
+img {
+  width: 6rem;
+}
+.main-cards div {
+  margin-left: 10px;
+}
+.card-t {
+  position: absolute;
+  bottom: 0;
+}
+.main-card {
+  background-color: #cfdff1;
+}
+
+#productss img {
+  height: 240px;
+}
