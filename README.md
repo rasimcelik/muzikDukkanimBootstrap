@@ -4,9 +4,6 @@ Kodluyoruz front end eğitimi kapsamında verilen müzik dükkanım sitesinin bo
 
 [patika.dev](https://www.patika.dev)
 
-![preview1](/assets/preview.png)
-![preview2](/assets/preview2.png)
-
 # Installation
 
 Öncelikle projeyi clonelayınız: ("https://github.com/rasimcelik/muzikDukkanimBootstrap.git")
